@@ -26,7 +26,6 @@ Here’s a snapshot of the technologies I work with:
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift">
 </p>
 
 ### UI / UX Design
@@ -47,6 +46,7 @@ Here’s a snapshot of the technologies I work with:
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift">
 </p>
 
 ### Databases
